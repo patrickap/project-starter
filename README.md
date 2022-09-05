@@ -16,6 +16,6 @@
 
    ```bash
    gradle run
-   // or
+   # or
    gradle run --continuous
    ```
