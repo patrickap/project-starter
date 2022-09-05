@@ -1,0 +1,22 @@
+plugins {
+  id 'application'
+  id 'org.jetbrains.kotlin.jvm' version '1.7.10'
+}
+
+application {
+  mainClassName = 'AppKt'
+}
+
+sourceSets {
+  main.kotlin.srcDirs = ['src']
+  test.kotlin.srcDirs = ['test']
+  main.resources.srcDirs = ['resources']
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10' 
+}
