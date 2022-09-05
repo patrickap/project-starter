@@ -1,6 +1,6 @@
 # kotlin-starter
 
-Kotlin starter 💫
+Kotlin starter. 💫
 
 1. Install dependencies
 
