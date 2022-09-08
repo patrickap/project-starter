@@ -1,3 +1,10 @@
-# project-starter
+# go-starter
 
-Various project starters for different programming languages. 💫
+Go starter. 💫
+
+1. Run application
+
+```bash
+cd src
+go run .
+```
