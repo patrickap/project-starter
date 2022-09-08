@@ -1,15 +1,15 @@
 plugins {
+  id 'scala'
   id 'application'
-  id 'org.jetbrains.kotlin.jvm' version '1.7.10'
 }
 
 application {
-  getMainClass().set('AppKt')
+  getMainClass().set('App/App$package')
 }
 
 sourceSets {
-  main.kotlin.srcDirs = ['src']
-  test.kotlin.srcDirs = ['test']
+  main.scala.srcDirs = ['src']
+  test.scala.srcDirs = ['test']
   main.resources.srcDirs = ['resources']
 }
 
@@ -18,5 +18,5 @@ repositories {
 }
 
 dependencies {
-  implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10' 
+  implementation 'org.scala-lang:scala3-library_3:3.2.0'
 }
