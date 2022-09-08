@@ -1,7 +1,5 @@
 # csharp-starter
 
-C# starter. 💫
-
 1. Build application
 
 ```bash
