@@ -1,3 +1,5 @@
+// gradle 7.5.1
+
 plugins {
   id 'scala'
   id 'application'
