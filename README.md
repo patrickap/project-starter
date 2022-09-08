@@ -1,7 +1,5 @@
 # go-starter
 
-Go starter. 💫
-
 1. Run application
 
 ```bash
