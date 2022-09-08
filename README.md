@@ -1,7 +1,5 @@
 # scala-starter
 
-Scala starter. 💫
-
 1. Install dependencies
 
    ```bash
