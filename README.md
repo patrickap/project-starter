@@ -1,6 +1,6 @@
-# scala-starter
+# kotlin-starter
 
-Scala starter. 💫
+Kotlin starter. 💫
 
 1. Install dependencies
 
