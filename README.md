@@ -1,7 +1,5 @@
 # rust-starter
 
-Rust starter. 💫
-
 1. Build application
 
 ```bash
