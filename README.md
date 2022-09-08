@@ -1,3 +1,15 @@
-# project-starter
+# csharp-starter
 
-Various project starters for different programming languages. 💫
+C# starter. 💫
+
+1. Build application
+
+```bash
+dotnet build
+```
+
+1. Run application
+
+```bash
+dotnet run
+```
