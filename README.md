@@ -1,3 +1,15 @@
-# project-starter
+# rust-starter
 
-Various project starters for different programming languages. 💫
+Rust starter. 💫
+
+1. Build application
+
+```bash
+cargo build
+```
+
+2. Run application
+
+```bash
+cargo run
+```
