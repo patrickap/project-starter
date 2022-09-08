@@ -1,7 +1,5 @@
 # kotlin-starter
 
-Kotlin starter. 💫
-
 1. Install dependencies
 
    ```bash
