@@ -2,20 +2,20 @@
 
 1. Install dependencies
 
-   ```bash
-   gradle install
-   ```
+```bash
+gradle install
+```
 
 2. Build application
 
-   ```bash
-   gradle build
-   ```
+```bash
+gradle build
+```
 
 3. Run application
 
-   ```bash
-   gradle run
-   # or
-   gradle run --continuous
-   ```
+```bash
+gradle run
+# or
+gradle run --continuous
+```
