@@ -1,0 +1,11 @@
+build/
+bin/
+
+*.class
+*.log
+*.jar
+
+.vscode
+.idea
+.gradle
+.metals

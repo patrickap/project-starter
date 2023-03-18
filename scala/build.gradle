@@ -1,0 +1,24 @@
+// gradle 7.5.1
+
+plugins {
+  id 'scala'
+  id 'application'
+}
+
+application {
+  getMainClass().set('App/App$package')
+}
+
+sourceSets {
+  main.scala.srcDirs = ['src']
+  test.scala.srcDirs = ['test']
+  main.resources.srcDirs = ['resources']
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  implementation 'org.scala-lang:scala3-library_3:3.2.0'
+}
