@@ -6,7 +6,13 @@
 npm install
 ```
 
-2. Run application
+2. Build application
+
+```bash
+npm run build
+```
+
+3. Run application
 
 ```bash
 npm run dev
